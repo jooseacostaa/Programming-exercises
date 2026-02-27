@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ALUMNADO>
+    
+    <ALUMNO>
+        <DNI></DNI>
+        <NOMBRE></NOMBRE>
+        <SEXO></SEXO>
+        <FECHA_NACIMIENTO></FECHA_NACIMIENTO>
+    </ALUMNO>
+    
+</ALUMNADO>
