@@ -1,9 +1,5 @@
 # 💻 Programming Exercises Repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/)
-![GitHub last commit](https://img.shields.io/github/last-commit/)
-![GitHub stars](https://img.shields.io/github/stars/?style=social)
-
 This repository works as my **personal programming lab**, where I upload exercises, challenges, practice tasks, and small experiments while continuing to grow as a developer.
 
 You won’t find perfect projects here…
